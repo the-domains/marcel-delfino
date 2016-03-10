@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.9404255
+  lightness: 0.3816898
+  brandStrength: 0.9638298
+  brandColors:
+    - '#FBFCFB'
+    - '#919091'
+    - '#E8B5A2'
+    - '#FF5B6E'
+    - '#C62738'
+  rhythmicContrast: 0.8599877
+typography_spectrum: 0.2765957
+name: Marcel Delfino
